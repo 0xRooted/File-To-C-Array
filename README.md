@@ -8,7 +8,7 @@ test.py:
 <hr>
 <b>
 import filetocarray
-
-obj = filetocarray.image_to_c_array("ring0.jpg", "test.h", 12, "ring0_image", True, "TEST", True)
-obj.save()
+<br><br>
+obj = filetocarray.image_to_c_array("ring0.jpg", "test.h", 12, "ring0_image", True, "TEST", True)<br>
+obj.save()<br>
 </b>
